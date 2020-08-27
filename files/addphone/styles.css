@@ -29,7 +29,7 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:562px;
+  top:509px;
   width:300px;
   height:67px;
   display:flex;
@@ -62,7 +62,7 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:362px;
+  top:309px;
   width:300px;
   height:131px;
   display:flex;
@@ -175,7 +175,7 @@
   border-width:0px;
   position:absolute;
   left:72px;
-  top:420px;
+  top:367px;
   width:270px;
   height:40px;
   display:flex;
@@ -251,7 +251,7 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:491px;
+  top:438px;
   width:300px;
   height:54px;
   display:flex;
@@ -284,11 +284,11 @@
   border-width:0px;
   position:absolute;
   left:72px;
-  top:471px;
+  top:418px;
   width:270px;
   height:51px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:17px;
@@ -327,7 +327,7 @@
   border-width:0px;
   position:absolute;
   left:69px;
-  top:585px;
+  top:532px;
   width:161px;
   height:18px;
   display:flex;
@@ -397,8 +397,8 @@
 #u17 {
   border-width:0px;
   position:absolute;
-  left:221px;
-  top:584px;
+  left:220px;
+  top:531px;
   width:130px;
   height:22px;
   display:flex;
@@ -433,11 +433,11 @@
   border-width:0px;
   position:absolute;
   left:57px;
-  top:362px;
+  top:309px;
   width:300px;
   height:42px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -505,7 +505,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;
@@ -571,7 +571,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;
@@ -638,7 +638,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;

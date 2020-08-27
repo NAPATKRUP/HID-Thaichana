@@ -94,8 +94,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:273px;
-  top:741px;
+  left:289px;
+  top:646px;
   width:250px;
   height:250px;
   display:flex;
@@ -132,7 +132,7 @@
   width:300px;
   height:39px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -199,7 +199,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;
@@ -267,7 +267,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;
@@ -336,7 +336,7 @@
   width:60px;
   height:17px;
   display:flex;
-  font-family:'Tahoma Bold', 'Tahoma', sans-serif;
+  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:15px;
